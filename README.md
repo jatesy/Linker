@@ -1,6 +1,6 @@
 Linker
 
-====================Copyright (C) 2014 Daran Zhang. All rights reserved.================================
+=============Copyright (C) 2014 Daran Zhang. All rights reserved.==============
 
 The linker takes individually compiled modules and creates a single executable by resolving external symbol references (e.g. variables and functions) and module relative addressing by assigning global addresses after placing the modules’ object code at global addresses.
 
@@ -22,4 +22,4 @@ After compiling, just use the command below to run the program:
 
 Then the program will start to run. The linker will start to work and the output will display on the screen.
 
-===================Copyright (C) 2014 Daran Zhang. All rights reserved.==================================
+===========Copyright (C) 2014 Daran Zhang. All rights reserved.=================
